@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+*.pyc
+.streamlit/secrets.toml
+
+# Local recordings are not part of the app.
+videos/
+*.mp4
+*.webm

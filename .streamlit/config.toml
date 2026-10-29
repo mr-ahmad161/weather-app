@@ -1,0 +1,14 @@
+# Dark theme used by the Sky Streamlit page.
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "dark"
+primaryColor = "#e2a15d"
+backgroundColor = "#12171e"
+secondaryBackgroundColor = "#1b232e"
+textColor = "#e7eef5"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"
